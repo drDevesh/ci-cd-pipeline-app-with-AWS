@@ -1,16 +1,8 @@
-import React from 'react';
-import './App.css'; // we'll edit this too
-
 function App() {
   return (
     <div className="App">
-      <header className="hero">
-        <h1 className="title">Welcome to My React + AWS App 🚀</h1>
-        <p className="subtitle">Deployed automatically with CodePipeline & S3</p>
-        <button className="btn">Explore More</button>
-      </header>
+      <h1 style={{ color: 'deepskyblue' }}>🚀 CI/CD Pipeline Working!</h1>
+      <p>Deployed from GitHub → CodeBuild → S3 ✅</p>
     </div>
   );
 }
-
-export default App;

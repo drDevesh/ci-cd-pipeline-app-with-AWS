@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # ci-cd-pipeline-project-with-AWS
 >>>>>>> 18222d55cada08bb4676e27ff3c35ef22938a0d2
+=======
+# ci-cd-pipeline-app-with-AWS
+>>>>>>> 328b371d850b0e5049e23ab94dd4e0e8c730ed4f
